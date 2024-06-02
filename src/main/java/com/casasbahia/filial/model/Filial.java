@@ -16,5 +16,5 @@ public class Filial {
     String tipo = "Rua";
     String ativo = "Ativa";
     LocalDate dataCadastro = LocalDate.parse("2024-05-31");
-    String ultimaAtualizacao = "2023-10-14T22:11:20";
+    String ultimaAtualizacao = "2024-06-02T22:11:20";
 }
